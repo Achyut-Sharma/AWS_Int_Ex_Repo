@@ -1,0 +1,1 @@
+print("requirement for aws exam is internet and aws account with knowledge")
